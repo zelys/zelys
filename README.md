@@ -1,10 +1,10 @@
-# Hola, mi nombre es Elias Celis (zelys)
+# Hola, mi nombre es Elias Celis
 
-Técnico en mecánica industrial, actualmente curso segundo año como _analista programador computacional_.
+Técnico en mecánica industrial, actualmente curso segundo año como analista programador computacional.
 
 En mi formación como desarrollador, he tenido la oportunidad de aprender y practicar el uso de tecnologías y lenguajes como: _HTML, CSS, MySQL, Java, Python y JavaScript_.
 
-La mayor parte de mi carrera profesional la he desempeñado como especialista en operación de máquinas CNC y desarrollador de programas en lenguaje ISO y lenguaje de alto nivel para la fabricación de piezas mecánicas.
+La mayor parte de mi carrera profesional la he desempeñado como especialista en operación de equipos CNC y desarrollo de programas en lenguaje ISO y lenguaje de alto nivel para la fabricación automatizada de piezas mecánicas.
 
 ## Tecnologías:
 
