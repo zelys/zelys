@@ -41,7 +41,7 @@ Actualmente me encuentro desarrollando proyectos web completos utilizando tecnol
 Revisa mis repositorios para ver mis proyectos en desarrollo, incluyendo aplicaciones web y análisis de datos con Python.  
 Estoy construyendo soluciones pensadas para ambientes reales de negocio y gestión.
 
-🔗 [Ver mis proyectos en GitHub](https://github.com/zelys)
+🔗 [Ver mis proyectos en GitHub](https://github.com/zelys?tab=repositories)
 
 ---
 
