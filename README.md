@@ -47,5 +47,5 @@ Estoy construyendo soluciones pensadas para ambientes reales de negocio y gesti�
 
 ## 📫 Contacto
 
-- 📧 zelys.dev@gmail.com  
+- 📧 [zelys.dev@gmail.com](mailto:zelys.dev@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/ecelis)  
