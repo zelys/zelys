@@ -1,11 +1,13 @@
-# 👋 Hola, soy Elias Celis (Zelys)
+# 👋 Hola, soy Elias
 
-Soy Analista Programador Computacional titulado en IP CHILE, con una sólida base técnica en desarrollo de software y automatización.  
+Técnico Analista Programador Computacional titulado en IP CHILE, con una sólida base técnica en desarrollo de software y automatización.
+
 Después de una extensa carrera como técnico en mecánica industrial especializado en equipos CNC, decidí redirigir mi camino profesional hacia la programación, donde encontré una nueva pasión creando soluciones tecnológicas que mejoran procesos y aportan valor real.
 
 ## 💡 Sobre mí
 
-Mi experiencia me ha enseñado a trabajar con precisión, lógica y perseverancia — habilidades que hoy aplico al desarrollo de software backend y frontend.  
+Mi experiencia me ha enseñado a trabajar con precisión, lógica y perseverancia — habilidades que hoy aplico al desarrollo de software backend y frontend.
+
 Me interesan especialmente los sistemas de gestión, el análisis de datos, el diseño limpio y funcional de interfaces, y la construcción de soluciones integradas.
 
 Actualmente me encuentro desarrollando proyectos web completos utilizando tecnologías modernas, mientras sigo aprendiendo y mejorando mis habilidades como desarrollador full stack.
